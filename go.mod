@@ -1,3 +1,3 @@
-module comm.dev/playground/cavalry
+module github.com/RuoyangZhao/Cavalry
 
 go 1.26.5
